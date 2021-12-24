@@ -7,9 +7,9 @@
   @include flex(center, unset);
 
   img {
-    width: 160px;
+    width: 50px;
     @include mobile {
-      width: 100px;
+      width: 30px;
     }
   }
   @include mobile {
